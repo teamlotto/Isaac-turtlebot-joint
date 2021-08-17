@@ -1,0 +1,8 @@
+prefix=/home/cj/isaac-sim-prj/cjros/joinstate_test_ws/install
+
+Name: isaac-turtlebot3
+Description: Description of isaac-turtlebot3
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
