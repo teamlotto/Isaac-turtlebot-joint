@@ -1,0 +1,8 @@
+prefix=/home/cj/isaac-sim-prj/git_lone/Isaac-turtlebot-joint/joint_test_ws/install
+
+Name: isaac-turtlebot-joint
+Description: Description of isaac-turtlebot-joint
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,2 +1,0 @@
-isaac-turtlebot3
--DCATKIN_DEVEL_PREFIX=/home/cj/isaac-sim-prj/cjros/joinstate_test_ws/devel -DCMAKE_INSTALL_PREFIX=/home/cj/isaac-sim-prj/cjros/joinstate_test_ws/install -G Unix Makefiles
