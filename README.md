@@ -94,9 +94,13 @@ roscore
 - ![image](https://user-images.githubusercontent.com/69780812/129701602-1dfcc05e-3cd1-494c-a6ec-53b2e0c57e39.png)
 
 ```shell
+rostopic list
 cd joint_test_ws
 source devel/setup.bash 
 rosrun isaac-turtlebot-joint turtlebot3_burger_joint.py
 ```
 ![isaac-sim-joint-example-ros](https://user-images.githubusercontent.com/69780812/129715949-8f95a228-7d53-4a96-92d9-a11d3bb9869c.gif)
+- 이전 rostopic 과 비교했을 때, Isaac-sim의 Play 버튼을 누르면 rostopic list가 joint_command, joint_satates가 추가되는 것을 확인할 수 있습니다.
+  - 위 gif는 Isaac-sim 먼저 테스트겸 돌려본거라 rostopic_list에 미리 추가되어있는 것이니 오해하지말아주세요.
 
+![image](https://user-images.githubusercontent.com/69780812/129716858-5ab1078b-8dbd-41e1-adb2-dda5b9f2c0d7.png)
