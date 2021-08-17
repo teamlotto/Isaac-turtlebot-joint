@@ -1,4 +1,4 @@
-# Joint Simlation Test In the Isaac Sim
+# Turtlebot3 Joint Control Example by using the ROS and Isaac-sim 
 ![image](https://user-images.githubusercontent.com/69780812/129684858-3f419102-8771-471f-be49-131a6d89581c.png)
 ## Reference
 - https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/sample_ros_turtlebot.html
