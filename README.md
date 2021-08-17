@@ -16,6 +16,7 @@
   - ![image](https://user-images.githubusercontent.com/69780812/129685629-71147ca7-b776-4600-a402-25bc2de71ac0.png)
 - Model
   - turtlebot burger
+- 현재 Repository를 git clone 해주세요.
 
 ## My Running Order
 ```shell
