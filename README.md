@@ -1,5 +1,8 @@
 # Turtlebot3 Joint Control Example by using the ROS and Isaac-sim 
 ![image](https://user-images.githubusercontent.com/69780812/129684858-3f419102-8771-471f-be49-131a6d89581c.png)
+
+![isaac-sim-joint-example-ros](https://user-images.githubusercontent.com/69780812/129715949-8f95a228-7d53-4a96-92d9-a11d3bb9869c.gif)
+
 ## Reference
 - https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/sample_ros_turtlebot.html
 ## PREPARATION
